@@ -49,10 +49,13 @@ Talented Full-Stack Software Developer with a love for `React`, `Redux` and `Rub
 ![VSCode](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=ea590b)
 ![Atom](https://icongr.am/devicon/atom-original.svg?size=50&color=fff)
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=white3d&theme=matrix&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ### Github stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=white3d&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=white3d&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=white3d&langs_count=5&theme=tokyonight)]()
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=white3d&theme=matrix&margin-w=15)](https://github.com/white3d/github-profile-trophy)
+
+<h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
 <a target="_blank"
 href="https://www.linkedin.com/in/edward-odhiambo-6a462a21b/"><img
