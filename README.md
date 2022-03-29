@@ -26,7 +26,7 @@ Talented Full-Stack Software Developer with a love for `React`, `Redux` and `Rub
 
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![Jquery](https://icongr.am/devicon/jquery-original-wordmark.svg?size=128&color=currentColor)
+![Jquery](https://icongr.am/devicon/jquery-original-wordmark.svg?size=50&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
 ### Front End Development
