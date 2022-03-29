@@ -22,7 +22,6 @@ Here are some ideas to get you started:
 
 Talented Full-Stack Software Developer with a love for `React`, `Redux` and `Ruby on Rails` / A Cyber security enthusiast with top-notch abilities in Cyber Security Solutions; Network Firewalls, Internet Traffic Protection Systems, Protected Remote Access, Security Event Monitoring Systems and Intrusion Prevention Systems. Experienced with leading teams driving Software, Hardware and IT related projects. Seek to bring knowledge and abilities to new position with growing team. Open to new opportunities.
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=white3d&theme=matrix&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
@@ -49,6 +48,8 @@ Talented Full-Stack Software Developer with a love for `React`, `Redux` and `Rub
 ![Ai](https://icongr.am/devicon/illustrator-line.svg?size=50&color=6762a6)
 ![VSCode](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=ea590b)
 ![Atom](https://icongr.am/devicon/atom-original.svg?size=50&color=fff)
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=white3d&theme=matrix&margin-w=15)](https://github.com/ryo-ma/github-profile-trophy)
 ### Github stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=white3d&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=white3d&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
