@@ -22,6 +22,8 @@ Here are some ideas to get you started:
 
 Talented Full-Stack Software Developer with a love for `React`, `Redux` and `Ruby on Rails` / A Cyber security enthusiast with top-notch abilities in Cyber Security Solutions; Network Firewalls, Internet Traffic Protection Systems, Protected Remote Access, Security Event Monitoring Systems and Intrusion Prevention Systems. Experienced with leading teams driving Software, Hardware and IT related projects. Seek to bring knowledge and abilities to new position with growing team. Open to new opportunities.
 
+https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=matrix
+
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
