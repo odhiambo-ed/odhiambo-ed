@@ -26,15 +26,29 @@ Talented Full-Stack Software Developer with a love for `React`, `Redux` and `Rub
 
 ### Languages
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![Jquery](https://icongr.am/devicon/jquery-original-wordmark.svg?size=50&color=currentColor)
+![NodeJs](https://icongr.am/devicon/nodejs-original-wordmark.svg?size=50&color=currentColor)
+![Jquery](https://icongr.am/devicon/jquery-original.svg?size=50&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
+![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
 ![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
+![NPM](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
+![Webpack](https://icongr.am/devicon/webpack-original.svg?size=50&color=currentColor)
 ### Front End Development
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
 ![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![SAAS](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
+![Less](https://icongr.am/devicon/less-plain-wordmark.svg?size=50&color=ea590b)
+![Bootstrap](https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=0e1dec)
+![WordPress](https://icongr.am/devicon/wordpress-original.svg?size=50&color=00adef)
+### Development Tools
+![Barbel](https://icongr.am/devicon/babel-original.svg?size=50&color=currentColor)
+![Git](https://icongr.am/devicon/git-original.svg?size=50&color=f34f29)
+![Heroku](https://icongr.am/devicon/heroku-original-wordmark.svg?size=50&color=6762a6)
+![Ai](https://icongr.am/devicon/illustrator-line.svg?size=50&color=6762a6)
+![VSCode](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=ea590b)
+![Atom](https://icongr.am/devicon/atom-original.svg?size=50&color=fff)
 ### Github stats
 [![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=white3d&count_private=true&theme=tokyonight&showicons=true)]()
 [![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=white3d&langs_count=5&theme=tokyonight)]()<h3 align="left">Let's Connect :handshake:</h3>
