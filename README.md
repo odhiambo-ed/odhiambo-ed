@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/white3d/count.svg" />
 </p>
 
-Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `LESS`, `Vanilla JavaScript`, `React`, `Redux`, `NodeJs`, `JestJs`, `Ruby`, `Ruby on Rails` and `Databases`. A Software enthusiast with top-notch abilities in UX/UI design, web development, deployment and testing. A student at Microverse with experience leading teams in driving Software development, team collabortion and exposure to job market. I seek to bring knowledge and abilities to any new position with a growing team. Open to new opportunities.
+Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `LESS`, `Vanilla JavaScript`, `React`, `Redux`, `NodeJs`, `JestJs`, `Ruby`, `Ruby on Rails` and `Databases`. A Software enthusiast with top-notch abilities in UX/UI design, web development, deployment and testing. A student at Microverse with experience leading teams in driving Software development, team collaboration and exposure to job market. I seek to bring knowledge and abilities to any new position with a growing team. Open to new opportunities.
 
 
 ### Languages
