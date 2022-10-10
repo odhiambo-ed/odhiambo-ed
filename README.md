@@ -29,7 +29,6 @@ Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `L
 ![Jquery](https://icongr.am/devicon/jquery-original.svg?size=50&color=currentColor)
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
 ![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
-![Python](https://icongr.am/devicon/python-original.svg?size=50&color=currentColor)
 ![NPM](https://icongr.am/devicon/npm-original-wordmark.svg?size=50&color=currentColor)
 ![Webpack](https://icongr.am/devicon/webpack-original.svg?size=50&color=currentColor)
 ### Front End Development
