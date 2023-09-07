@@ -41,19 +41,25 @@ Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `L
 ![Bootstrap](https://github.com/odhiambo-ed/white3d/blob/main/bootstrap-4.svg)
 ![MaterialUI](https://github.com/odhiambo-ed/white3d/blob/main/materialui.svg)
 ![SemanticUI](https://github.com/odhiambo-ed/white3d/blob/main/semantic-ui.svg)
-### Development Tools.
+### Databases
+![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=17a2e8)
+![MySql](https://icongr.am/devicon/mysql-original.svg?size=50&color=17a2e8)
+![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=50&color=17a2e8)
+### Development Tools
 ![Barbel](https://icongr.am/devicon/babel-original.svg?size=50&color=currentColor)
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=f34f29)
 ![Heroku](https://icongr.am/devicon/heroku-original-wordmark.svg?size=50&color=6762a6)
 ![Ai](https://icongr.am/devicon/illustrator-line.svg?size=50&color=6762a6)
 ![VSCode](https://icongr.am/devicon/visualstudio-plain.svg?size=50&color=ea590b)
 ![Atom](https://icongr.am/devicon/atom-original.svg?size=50&color=fff)
+![Docker](https://icongr.am/devicon/docker-original.svg?size=50&color=17a2e8)
+![GitLab](https://icongr.am/devicon/gitlab-original.svg?size=50&color=17a2e8)
 
 ### Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=white3d&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=white3d&langs_count=5&theme=tokyonight)]()
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=odhiambo-ed&count_private=true&theme=tokyonight&showicons=true)]()
+[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=odhiambo-ed&langs_count=5&theme=tokyonight)]()
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=white3d&theme=matrix&margin-w=15)](https://github.com/white3d/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=odhiambo-ed&theme=matrix&margin-w=15)](https://github.com/white3d/github-profile-trophy)
 
 <h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
