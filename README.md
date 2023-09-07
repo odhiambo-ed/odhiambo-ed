@@ -31,7 +31,7 @@ Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `L
 ![Ruby](https://icongr.am/devicon/ruby-original.svg?size=50&color=currentColor)
 ![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=50&color=currentColor)
 ![Java](https://icongr.am/devicon/java-original.svg?size=50&color=currentColor)
-![Quarkus](https://github.com/odhiambo-ed/white3d/blob/main/quarkus-icon.svg)
+![Quarkus](https://github.com/odhiambo-ed/white3d/blob/main/quarkus-icon-60.svg)
 ### Front End Development
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
