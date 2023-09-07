@@ -33,12 +33,15 @@ Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `L
 ![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=60&color=currentColor)
 ![Java](https://icongr.am/devicon/java-original.svg?size=60&color=currentColor)
 ![Quarkus](https://github.com/odhiambo-ed/white3d/blob/main/quarkus-icon-60.svg)
-![WordPress](https://icongr.am/devicon/wordpress-original.svg?size=50&color=00adef)
+![PrimeFaces](https://github.com/odhiambo-ed/white3d/blob/main/primereact.svg)
+![WordPress](https://icongr.am/devicon/wordpress-plain.svg?size=60&color=17a2e8)
 ### CSS
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![SAAS](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
 ![Less](https://icongr.am/devicon/less-plain-wordmark.svg?size=50&color=ea590b)
-![Bootstrap](https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=0e1dec)
+![Bootstrap](https://github.com/odhiambo-ed/white3d/blob/main/bootstrap-4.svg)
+![MaterialUI](https://github.com/odhiambo-ed/white3d/blob/main/materialui.svg)
+![SemanticUI](https://github.com/odhiambo-ed/white3d/blob/main/semantic-ui.svg)
 ### Development Tools.
 ![Barbel](https://icongr.am/devicon/babel-original.svg?size=50&color=currentColor)
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=f34f29)
