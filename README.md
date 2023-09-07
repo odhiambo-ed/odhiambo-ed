@@ -37,8 +37,7 @@ Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `L
 ![WordPress](https://icongr.am/devicon/wordpress-plain.svg?size=60&color=17a2e8)
 ### CSS
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
-![SAAS](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
-![Less](https://icongr.am/devicon/less-plain-wordmark.svg?size=50&color=ea590b)
+![Tailwind](https://github.com/odhiambo-ed/white3d/blob/main/tailwindcss.svg)
 ![Bootstrap](https://github.com/odhiambo-ed/white3d/blob/main/bootstrap-4.svg)
 ![MaterialUI](https://github.com/odhiambo-ed/white3d/blob/main/materialui.svg)
 ![SemanticUI](https://github.com/odhiambo-ed/white3d/blob/main/semantic-ui.svg)
