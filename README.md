@@ -20,7 +20,7 @@ Here are some ideas to get you started:
   <img src="https://profile-counter.glitch.me/white3d/count.svg" />
 </p>
 
-Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `LESS`, `Vanilla JavaScript`, `React`, `Redux`, `NodeJs`, `JestJs`, `Ruby`, `Ruby on Rails` and `Databases`. A Software enthusiast with top-notch abilities in UX/UI design, web development, deployment and testing. A student at Microverse with experience leading teams in driving Software development, team collaboration and exposure to job market. I seek to bring knowledge and abilities to any new position with a growing team. Open to new opportunities.
+Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `LESS`, `Vanilla JavaScript`, `React`, `Redux`, `NodeJs`, `JestJs`, `Ruby`, `Ruby on Rails`, `Java`, `Java Quarkus` and `Databases`. A Software enthusiast with top-notch abilities in UX/UI design, web development, deployment and testing. A student at Microverse with experience leading teams in driving Software development, team collaboration and exposure to job market. I seek to bring knowledge and abilities to any new position with a growing team. Open to new opportunities.
 
 
 ### Languages and Frameworks
@@ -64,7 +64,7 @@ Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `L
 <h3 align="left">Let's Connect :handshake:</h3>
 <div align="left">
 <a target="_blank"
-href="https://www.linkedin.com/in/edward-odhiambo-6a462a21b/"><img
+href="https://www.linkedin.com/in/edward-odhiambo/"><img
 src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
 href="mailto:odhiambo.edward111@gmail.com"><img
 src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
