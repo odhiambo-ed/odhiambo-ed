@@ -23,7 +23,8 @@ Here are some ideas to get you started:
 Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `LESS`, `Vanilla JavaScript`, `React`, `Redux`, `NodeJs`, `JestJs`, `Ruby`, `Ruby on Rails` and `Databases`. A Software enthusiast with top-notch abilities in UX/UI design, web development, deployment and testing. A student at Microverse with experience leading teams in driving Software development, team collaboration and exposure to job market. I seek to bring knowledge and abilities to any new position with a growing team. Open to new opportunities.
 
 
-### Languages
+### Languages and Frameworks
+![HTML5](https://icongr.am/devicon/html5-original.svg?size=60&color=currentColor)
 ![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=60&color=currentColor)
 ![React](https://icongr.am/devicon/react-original.svg?size=60&color=currentColor)
 ![NodeJs](https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor)
@@ -32,15 +33,12 @@ Talented Full-Stack Software Developer with a love for `HTML`, `CSS`, `SASS`, `L
 ![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=60&color=currentColor)
 ![Java](https://icongr.am/devicon/java-original.svg?size=60&color=currentColor)
 ![Quarkus](https://github.com/odhiambo-ed/white3d/blob/main/quarkus-icon-60.svg)
-### Front End Development
-![JavaScript](https://icongr.am/devicon/javascript-original.svg?size=50&color=currentColor)
-![React](https://icongr.am/devicon/react-original.svg?size=50&color=currentColor)
-![HTML5](https://icongr.am/devicon/html5-original.svg?size=50&color=currentColor)
+![WordPress](https://icongr.am/devicon/wordpress-original.svg?size=50&color=00adef)
+### CSS
 ![CSS3](https://icongr.am/devicon/css3-original.svg?size=50&color=currentColor)
 ![SAAS](https://icongr.am/devicon/sass-original.svg?size=50&color=currentColor)
 ![Less](https://icongr.am/devicon/less-plain-wordmark.svg?size=50&color=ea590b)
 ![Bootstrap](https://icongr.am/devicon/bootstrap-plain.svg?size=50&color=0e1dec)
-![WordPress](https://icongr.am/devicon/wordpress-original.svg?size=50&color=00adef)
 ### Development Tools.
 ![Barbel](https://icongr.am/devicon/babel-original.svg?size=50&color=currentColor)
 ![Git](https://icongr.am/devicon/git-original.svg?size=50&color=f34f29)
