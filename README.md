@@ -1,24 +1,12 @@
 ### Hi there 👋 I'm Edward
 
-<!--
-**white3d/white3d** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
 <p align="center"> 
   Visitor count<br>
   <img src="https://profile-counter.glitch.me/white3d/count.svg" />
 </p>
+
+![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https://github.com/odhiambo-ed&count_bg=%2379C83D&title_bg=%23555555&icon=github.svg&icon_color=%23E7E7E7&title=visits&edge_flat=false)
+
 
 Full Stack Developer specializing in React, Next.js, and Rails, with over 4 years of experience working in multinational teams. Recognized for strong communication skills. Passionate about learning new technologies.
 
