@@ -2,8 +2,7 @@
 
 
 
-Full-Stack Engineer | React/Next.js + Rails | Typing TypeScript & Taming Databases | AI-Powered Fintech Maestro | Cloud-Native (Docker/K8s) | Collaborative & Adaptive
-
+Full-Stack Engineer | React/Next.js + Rails/Supabase | Typing TypeScript & Taming Databases | AI-Powered Apps | Fintech | Docker | Collaborative & Adaptive
 
 ### Languages and Frameworks
 ![React](https://icongr.am/devicon/react-original.svg?size=60&color=currentColor)
