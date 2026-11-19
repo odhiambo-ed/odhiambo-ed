@@ -1,43 +1,32 @@
-### Hi there 👋 I'm Edward
+# Hi, I'm Edward Odhiambo
 
+Fullstack engineer in Nairobi, Kenya. I build payments products with Next.js, Ruby on Rails, TypeScript and PostgreSQL, and I've been shipping web software full time since 2020.
 
+Right now I work at Quikk API, where I build MulaFlow and UndaOS, its merchant payments platform for Kenyan businesses.
 
-Full-Stack Engineer | React/Next.js + Rails/Supabase | Typing TypeScript & Taming Databases | AI-Powered Apps | Fintech | Docker | Collaborative & Adaptive
+**Open to fullstack, frontend and backend roles:** remote, in Nairobi, or with relocation to the EU. My notice period is 30 days.
 
-### Languages and Frameworks
-![React](https://icongr.am/devicon/react-original.svg?size=60&color=currentColor)
-![NodeJs](https://icongr.am/devicon/nodejs-original.svg?size=60&color=currentColor)
-![Ruby](https://icongr.am/devicon/ruby-original.svg?size=60&color=currentColor)
-![Ruby on Rails](https://icongr.am/devicon/rails-original-wordmark.svg?size=60&color=currentColor)
-### CSS
-![Tailwind](https://github.com/odhiambo-ed/white3d/blob/main/tailwindcss.svg)
-![Bootstrap](https://github.com/odhiambo-ed/white3d/blob/main/bootstrap-4.svg)
-![MaterialUI](https://github.com/odhiambo-ed/white3d/blob/main/materialui.svg)
-![SemanticUI](https://github.com/odhiambo-ed/white3d/blob/main/semantic-ui.svg)
-### Databases
-![Postgresql](https://icongr.am/devicon/postgresql-original.svg?size=50&color=17a2e8)
-![MongoDB](https://icongr.am/devicon/mongodb-original.svg?size=50&color=17a2e8)
-### Development Tools
-![Barbel](https://icongr.am/devicon/babel-original.svg?size=50&color=currentColor)
-![Git](https://icongr.am/devicon/git-original.svg?size=50&color=f34f29)
-![Heroku](https://icongr.am/devicon/heroku-original-wordmark.svg?size=50&color=6762a6)
-![Ai](https://icongr.am/devicon/illustrator-line.svg?size=50&color=6762a6)
-![Docker](https://icongr.am/devicon/docker-original.svg?size=50&color=17a2e8)
-![GitLab](https://icongr.am/devicon/gitlab-original.svg?size=50&color=17a2e8)
+[Email me](mailto:odhiambo.edward111@gmail.com) · [LinkedIn](https://www.linkedin.com/in/edward-odhiambo/) · [Website](https://www.edwardodhiambo.com)
 
-### Github stats
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api/?username=odhiambo-ed&count_private=true&theme=tokyonight&showicons=true)]()
-[![My GitHub Language Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=odhiambo-ed&langs_count=5&theme=tokyonight)]()
+## What I've shipped at work
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=odhiambo-ed&theme=matrix&margin-w=15)](https://github.com/white3d/github-profile-trophy)
+- Rebuilt the payments ledger around idempotency keys and the outbox pattern, so a resent callback can never post twice. Payment errors fell by 95%.
+- Built M-Pesa and card collections end to end, from provider integrations to the merchant dashboard. It handled 5,000 transactions in its first week and cut reconciliation mismatches by 54%.
+- Replaced week-long, sales-led onboarding with a self-serve flow that provisions tenants and API keys automatically, cutting onboarding time by 40%.
+- Built webhook delivery for integrators with retries, signed payloads, delivery logs and one-click replay.
 
-<h3 align="left">Let's Connect :handshake:</h3>
-<div align="left">
-<a target="_blank"
-href="https://www.linkedin.com/in/edward-odhiambo/"><img
-src="https://img.shields.io/badge/-LinkedIn-0077b5?style=for-the-badge&logo=LinkedIn&logoColor=white"></img></a> <a target="_blank"
-href="mailto:odhiambo.edward111@gmail.com"><img
-src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=Gmail&logoColor=white"></img></a> <a target="_blank"
-href="https://twitter.com/odhiambo_ed"><img
-src="https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=Twitter&logoColor=white"></img></a>
-<div/>
+Before Quikk I worked with Tetra Pak (React and Rails, remote from Sweden), Rift Koders and Smart People Africa. I've also mentored 40+ Microverse students since 2022.
+
+## Projects you can open
+
+| Project | What it is | Stack |
+|---|---|---|
+| [Stripelet](https://github.com/odhiambo-ed/rails_stripelet) | Stripe-style billing with subscriptions, invoices, a double-entry ledger and idempotent webhooks | Rails, PostgreSQL, Redis, Sidekiq |
+| [HeartFund](https://github.com/odhiambo-ed/rails-quikk-heartfund-api) | Donation API with M-Pesa STK Push and HMAC-signed requests | Rails, PostgreSQL, RSpec, Docker |
+| [ReUbuntu](https://re-ubuntu.vercel.app) | Inventory portal where retailers bulk-upload deadstock by CSV, auto-price it and list it to partners | Next.js, TypeScript, Supabase |
+| [TransactiView](https://github.com/odhiambo-ed/react-supabase-transactiview-mpesa) | M-Pesa payments dashboard with STK Push, webhook confirmations and transaction history | React, Supabase, PostgreSQL |
+
+## Stack
+
+TypeScript, JavaScript, React, Next.js, Ruby on Rails, PostgreSQL, Supabase, Redis, REST APIs, Docker, CI/CD, RSpec, Jest.
+Also familiar with Kubernetes, AWS, Node.js and WebSockets.
