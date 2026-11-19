@@ -34,15 +34,6 @@
 
 I also built webhook delivery for integrators with retries, signed payloads, delivery logs and one-click replay. Before Quikk I worked with **Tetra Pak** (React and Rails, remote from Sweden), **Rift Koders** and **Smart People Africa**, and I've mentored 40+ Microverse students since 2022.
 
-## Projects you can open
-
-| | Project | Stack |
-|---|---|---|
-| 💳 | **[Stripelet](https://github.com/odhiambo-ed/rails_stripelet)**<br>Stripe-style billing with subscriptions, invoices, a double-entry ledger and idempotent webhooks | Rails · PostgreSQL · Redis · Sidekiq |
-| 💚 | **[HeartFund](https://github.com/odhiambo-ed/rails-quikk-heartfund-api)**<br>Donation API with M-Pesa STK Push and HMAC-signed requests | Rails · PostgreSQL · RSpec · Docker |
-| 👕 | **[ReUbuntu](https://re-ubuntu.vercel.app)**<br>Retailers bulk-upload deadstock by CSV, auto-price it and list it to partners | Next.js · TypeScript · Supabase |
-| 📊 | **[TransactiView](https://github.com/odhiambo-ed/react-supabase-transactiview-mpesa)**<br>M-Pesa payments dashboard with STK Push, webhook confirmations and transaction history | React · Supabase · PostgreSQL |
-
 ## Stack
 
 <p>
